@@ -50,15 +50,15 @@ I am Rachit Mujmer, 15 years old high schooler who loves to learn new things. I 
 
 ### Tools and Languages
 
-:sunglasses:  Javascript ([VanillaJS](http://vanilla-js.com), [NodeJS](https://nodejs.org/), [Discord.js](https://discord.js.org/#/))
-:rocket:  Rust ([Tauri](https://tauri.studio))
-:strawberry:  Raspberry Pi
-:arrows_counterclockwise:  Arduino
-:memo:  Code-OSS & IntelliJ WebStorm
-:eye:  [Insomnia](https://insomnia.rest)
-:leaves:  MongoDB
-:books:  GIT & GitHub
-:bookmark_tabs:  [Vivaldi](https://vivaldi.com)
+:sunglasses:  Javascript ([VanillaJS](http://vanilla-js.com), [NodeJS](https://nodejs.org/), [Discord.js](https://discord.js.org/#/))<br>
+:rocket:  Rust ([Tauri](https://tauri.studio))<br>
+:strawberry:  Raspberry Pi<br>
+:arrows_counterclockwise:  Arduino<br>
+:memo:  Code-OSS & IntelliJ WebStorm<br>
+:eye:  [Insomnia](https://insomnia.rest)<br>
+:leaves:  MongoDB<br>
+:books:  GIT & GitHub<br>
+:bookmark_tabs:  [Vivaldi](https://vivaldi.com)<br>
 ###### <strike>:electric_plug:   and this [usb cord](https://cdn.discordapp.com/attachments/840902618658373642/970241318393614397/IMG_20220501_140203.jpg), its useful.</strike>
 
 <br>
