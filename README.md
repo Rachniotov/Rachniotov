@@ -58,7 +58,7 @@ I am Rachit Mujmer, 15 years old high schooler who loves to learn new things. I 
 :eye:  [Insomnia](https://insomnia.rest)<br>
 :leaves:  MongoDB<br>
 :books:  GIT & GitHub<br>
-:bookmark_tabs:  [Vivaldi](https://vivaldi.com)<br>
+:bookmark_tabs:  [Vivaldi](https://vivaldi.com)
 ###### <strike>:electric_plug:   and this [usb cord](https://cdn.discordapp.com/attachments/840902618658373642/970241318393614397/IMG_20220501_140203.jpg), its useful.</strike>
 
 <br>
