@@ -41,7 +41,7 @@ I am Rachit Mujmer, 15 years old high schooler who loves to learn new things. I 
 
  - Website Development - I use JS, HTML and CSS to make websites. Mostly responsive.
  - API development - I am experienced in REST api development using Node.js ([Express.js](https://expressjs.com))
- - Application Development - I have used [Electron](https://www.electronjs.org) and [Tauri](https://tauri.studio) and made stuff such as YT-Downloader and Lazap.
+ - Application Development - I have used [Electron](https://www.electronjs.org) and [Tauri](https://tauri.studio) and made stuff such as [YT-Downloader](https://github.com/Rachniotov/yt-downloader) and [Lazap](https://github.com/Lazap-Development/lazap).
  - Arduino Platform - I'm well-versed with the [arduino library](https://www.arduino.cc/reference/en/) and have basic knowledge of electronics.
  - Raspberry Pi - I'm learning about the raspberry pi's gpios and other peripherals which i can make use of in my robotics projects.
  - Linux - I like Linux.... I use arch btw.
