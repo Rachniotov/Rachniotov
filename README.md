@@ -36,7 +36,7 @@ I am Rachit Mujmer, a freshman who loves to learn new things. I write code and b
 ### Tools and Languages
 
 :sunglasses:  Javascript ([VanillaJS](http://vanilla-js.com), [NodeJS](https://nodejs.org/), [Discord.js](https://discord.js.org/#/))<br>
-:copyright: C/C++<br>
+:copyright:  C/C++<br>
 :rocket:  Rust ([Tauri](https://tauri.studio))<br>
 :strawberry:  Raspberry Pi<br>
 :arrows_counterclockwise:  Arduino<br>
